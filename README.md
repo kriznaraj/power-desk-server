@@ -16,7 +16,10 @@ kriznaraj/powerdesk-node-server
 Test the server by runnig the below command
 ```
 curl -i http://localhost:50000/issues/freshworks
-curl -i http://localhost:50000/report/siteIssues/testsite 
+curl -i http://localhost:50000/prechecks/freshworks
+
+<!-- If any new report file added -->
+curl -i http://localhost:50000/report/<reportFileName>/<siteName> 
 
 ```
 
