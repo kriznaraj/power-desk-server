@@ -1,0 +1,86 @@
+{
+    "freshworks": {
+        "siteName": "freshworks",
+        "prechecks": [
+            {
+                "precheckId": "precheck1",
+                "precheckName": "AuthStatus",
+                "precheckData": {
+                    "Status": "Success"
+                }
+            },
+            {
+                "precheckId": "precheck2",
+                "precheckName": "SourceCurrencyList",
+                "precheckData": {
+                    "DataList": [
+                        "AUD",
+                        "USD"
+                    ]
+                }
+            },
+            {
+                "precheckId": "precheck3",
+                "precheckName": "DestinationCurrencyList",
+                "precheckData": {
+                    "DataList": [
+                        "CAD",
+                        "USD"
+                    ]
+                }
+            },
+            {
+                "precheckId": "precheck4",
+                "precheckName": "ItemPrerequisites",
+                "precheckData": {
+                    "AccountCodeStatus": "Partial",
+                    "AccountCodeMissingItem": [
+                        "Blossom"
+                    ]
+                }
+            }
+        ]
+    },
+    "krishnaraj": {
+        "siteName": "krishnaraj",
+        "prechecks": [
+            {
+                "precheckId": "precheck1",
+                "precheckName": "AuthStatus",
+                "precheckData": {
+                    "Status": "Success"
+                }
+            },
+            {
+                "precheckId": "precheck2",
+                "precheckName": "SourceCurrencyList",
+                "precheckData": {
+                    "DataList": [
+                        "AUD",
+                        "USD"
+                    ]
+                }
+            },
+            {
+                "precheckId": "precheck3",
+                "precheckName": "DestinationCurrencyList",
+                "precheckData": {
+                    "DataList": [
+                        "CAD",
+                        "USD"
+                    ]
+                }
+            },
+            {
+                "precheckId": "precheck4",
+                "precheckName": "ItemPrerequisites",
+                "precheckData": {
+                    "AccountCodeStatus": "Partial",
+                    "AccountCodeMissingItem": [
+                        "Blossom"
+                    ]
+                }
+            }
+        ]
+    }
+}

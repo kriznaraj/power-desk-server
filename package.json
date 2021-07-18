@@ -1,0 +1,14 @@
+{
+    "name": "power-desk-node-server",
+    "version": "1.0.0",
+    "description": "power desk node server - docker",
+    "author": "Krishnaraj <kriznaraj@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.16.1"
+    }
+}

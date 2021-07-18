@@ -1,0 +1,86 @@
+{
+    "freshworks": {
+        "siteName": "freshworks",
+        "issues": [
+            {
+                "entityId": "INV101",
+                "errorMessage": "Account code not entered"
+            },
+            {
+                "entityId": "INV102",
+                "errorMessage": "Currency does not match"
+            },
+            {
+                "entityId": "INV103",
+                "errorMessage": "Record already exists"
+            },
+            {
+                "entityId": "INV104",
+                "errorMessage": "Are you stupid?"
+            }
+        ]
+    },
+    "krishnaraj": {
+        "siteName": "krishnaraj",
+        "issues": [
+            {
+                "entityId": "INV101",
+                "errorMessage": "Account code not entered"
+            },
+            {
+                "entityId": "INV102",
+                "errorMessage": "Currency does not match"
+            },
+            {
+                "entityId": "INV103",
+                "errorMessage": "Record already exists"
+            },
+            {
+                "entityId": "INV104",
+                "errorMessage": "Are you stupid?"
+            }
+        ]
+    },
+    "testsite": {
+        "siteName": "testsite",
+        "issues": [
+            {
+                "entityId": "INV101",
+                "errorMessage": "Account code not entered"
+            },
+            {
+                "entityId": "INV102",
+                "errorMessage": "Currency does not match"
+            },
+            {
+                "entityId": "INV103",
+                "errorMessage": "Record already exists"
+            },
+            {
+                "entityId": "INV104",
+                "errorMessage": "Are you stupid?"
+            }
+        ]
+    },
+    "kk": {
+        "siteName": "kk",
+        "issues": [
+            {
+                "entityId": "INV101",
+                "errorMessage": "Account code not entered"
+            },
+            {
+                "entityId": "INV102",
+                "errorMessage": "Currency does not match"
+            },
+            {
+                "entityId": "INV103",
+                "errorMessage": "Record already exists"
+            },
+            {
+                "entityId": "INV104",
+                "errorMessage": "Are you stupid?"
+            }
+        ]
+    }
+}
